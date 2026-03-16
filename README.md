@@ -20,9 +20,10 @@
 
 <https://ghcy.eu.org/https://usercontent.githubfast.com/raw/FongMi/CatVodSpider/main/json/config.json>
 
-# EGP源
-<https://epg.erw.cc/>
+# EGP
+<https://epg.cdn.loc.cc/?ch={name}&date={date}>
 
-<http://epg.51zmt.top:8000/e.xml>
+# LOGO
+<https://logo.wyfc.qzz.io/{name}.png>
 
-<https://epg.112114.xyz/pp.xml>
+
